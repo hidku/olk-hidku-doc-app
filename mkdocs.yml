@@ -57,7 +57,5 @@ markdown_extensions:
 
 extra_templates:
   - footer.html
-extra_css:
-  - 'styles/extra.css'
 
 copyright: ""
