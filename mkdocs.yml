@@ -2,7 +2,6 @@ site_name: Hidku Platform Doc
 site_url:  https://hidku.github.io/hidku-platform-doc/
 theme:
   name: material
-  custom_dir: docs/overrides
   features:
     - navigation.tabs
     - navigation.sections
@@ -54,8 +53,3 @@ markdown_extensions:
   - pymdownx.emoji:
       emoji_index: !!python/name:materialx.emoji.twemoji
       emoji_generator: !!python/name:materialx.emoji.to_svg
-
-extra_templates:
-  - footer.html
-
-copyright: ""
