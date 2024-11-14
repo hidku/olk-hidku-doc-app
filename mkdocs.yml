@@ -2,7 +2,7 @@ site_name: Hidku Platform Doc
 site_url:  https://hidku.github.io/hidku-platform-doc/
 theme:
   name: material
-  custom_dir: overrides
+  custom_dir: docs/overrides
   features:
     - navigation.tabs
     - navigation.sections
