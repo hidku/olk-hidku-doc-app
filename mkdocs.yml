@@ -27,7 +27,7 @@ theme:
         name: Switch to light mode    
       primary: indigo
       accent: light green
-      
+
 markdown_extensions:
   - pymdownx.highlight:
       anchor_linenums: true
@@ -49,5 +49,3 @@ extra_templates:
   - footer.html
 extra_css:
   - 'stylesheets/extra.css'
-
-copyright: ""
