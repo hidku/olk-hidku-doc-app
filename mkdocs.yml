@@ -18,15 +18,15 @@ theme:
     - scheme: default
       toggle:
         icon: material/toggle-switch
-        name: Switch to dark mode
+        name: Switch to light mode
       primary: indigo
-      accent: light green 
+      accent: green 
     - scheme: slate 
       toggle:
         icon: material/toggle-switch-off-outline
-        name: Switch to light mode    
+        name: Switch to dark mode    
       primary: indigo
-      accent: green
+      accent: light green
 
 markdown_extensions:
   - pymdownx.highlight:
