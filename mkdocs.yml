@@ -26,7 +26,7 @@ theme:
         icon: material/toggle-switch-off-outline
         name: Switch to light mode    
       primary: indigo
-      accent: light green
+      accent: green
 
 markdown_extensions:
   - pymdownx.highlight:
