@@ -1,5 +1,5 @@
-site_name: Hidku Platform Doc
-site_url:  https://hidku.github.io/hidku-platform-doc/
+site_name: Hidku Platform Playbook
+site_url:  https://platform.hidku.com
 theme:
   name: material
   custom_dir: docs/overrides
@@ -15,15 +15,13 @@ theme:
     - content.code.copy
   language: en
   palette:
-    - media: "(prefers-color-scheme: light)"
-      scheme: default
+    - scheme: default
       toggle:
         icon: material/toggle-switch
         name: Switch to dark mode
       primary: teal
-      accent: purple
-    - media: "(prefers-color-scheme: dark)"
-      scheme: slate 
+      accent: purple 
+    - scheme: slate 
       toggle:
         icon: material/toggle-switch-off-outline
         name: Switch to light mode    
