@@ -19,25 +19,15 @@ theme:
       toggle:
         icon: material/toggle-switch
         name: Switch to dark mode
-      primary: teal
-      accent: purple 
+      primary: indigo
+      accent: light green 
     - scheme: slate 
       toggle:
         icon: material/toggle-switch-off-outline
         name: Switch to light mode    
-      primary: teal
-      accent: lime
-
-plugins:
-  - social
-
-extra:
-  social:
-    - icon: fontawesome/brands/github-alt
-      link: https://github.com/hidku
-    - icon: fontawesome/brands/twitter
-      link: https://twitter.com/hidku
-
+      primary: indigo
+      accent: light green
+      
 markdown_extensions:
   - pymdownx.highlight:
       anchor_linenums: true
